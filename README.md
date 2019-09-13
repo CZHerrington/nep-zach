@@ -1,3 +1,3 @@
 Practicing merge conflicts and working with git.
 
-Nep and Zachs
+Nep and Zach's repository
